@@ -1,0 +1,6 @@
+# Required
+host:
+
+# Optional
+replicas: 3
+clusterIssuer: letsencrypt
